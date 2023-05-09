@@ -27,4 +27,4 @@ Here are some ideas to get you started:
  ## ✅ GitHub stats
  
 ![polarisjyb's GitHub stats](https://github-readme-stats.vercel.app/api?username=polarisjyb&show_icons=true&theme=vue)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=polarisjyb&layout=compact&theme=solarized-light&hide=html,css,c,c%2B%2B,objective-c,objective-c%2B%2B,ruby,starlark,shell)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=polarisjyb&layout=compact&theme=solarized-light&hide=html,css,c,java,c%2B%2B,objective-c,objective-c%2B%2B,ruby,starlark,shell)
