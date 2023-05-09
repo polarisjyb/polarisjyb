@@ -1,5 +1,4 @@
 ### Hi there 👋
-### Life motto - I'm not good at it, but I won't give up
 
 <!--
 **polarisjyb/polarisjyb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
